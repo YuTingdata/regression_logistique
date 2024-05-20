@@ -14,5 +14,4 @@ Pour ce faire, on va utiliser le dataset `breast cancer` présent dans `sklearn.
 ## Points d'amélioration possibles
 * Ajout de la regularisation au modèle
 * Faire un centrer-réduire
-* Utilisé le CPA (Component Principal Analysis) pour réduire les features
-
+* Utiliser le CPA (Component Principal Analysis) pour réduire le nombre de features
